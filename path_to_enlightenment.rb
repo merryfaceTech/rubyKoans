@@ -3,12 +3,12 @@
 $LOAD_PATH << File.dirname(__FILE__)
 
 require 'about_asserts'
+require 'about_strings'
 require 'about_nil'
 require 'about_objects'
 require 'about_arrays'
 require 'about_array_assignment'
 require 'about_hashes'
-require 'about_strings'
 require 'about_symbols'
 require 'about_regular_expressions'
 require 'about_methods'
